@@ -3,7 +3,7 @@ import React from 'react'
 function Links() {
   return (
     <div>
-      <p>link1 | link2 | link3 (tudo de !verdade)</p>
+      <p>vou mostrar porque jojo é o melhor anime em termos de qualidade quanto comunidade</p>
     </div>
   )
 }

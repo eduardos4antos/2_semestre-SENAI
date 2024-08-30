@@ -1,8 +1,8 @@
 import'./cabecalho.css'
 function Cabecalho() {
   return (
-    <div className="cabecalho-container">
-      <h1>treinar dragão</h1>
+    <div className="Cabecalho-container">
+      <h1>jojo´s bizarre adventures</h1>
     </div>
   )
 }
