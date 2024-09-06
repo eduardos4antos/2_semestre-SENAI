@@ -1,17 +1,21 @@
 
 import './App.css'
 import Exemplo from './Components/Exemplo'
-import Leitor_numero from './Components/Copo'
+import Copo from './Components/Copo'
 import Media from './Components/Media'
+import Validador from './Components/Validador'
+import Salario from './Components/Salario'
 
 
 function App() {
 
   return (
     <>
-      <Leitor_numero />
-      <Exemplo />
+      <Salario />  
+      <Validador />
+      <Copo />
       <Media />
+      <Exemplo />
 
     </>
   )

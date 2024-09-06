@@ -1,4 +1,4 @@
-
+import './Media.css'
 import { useState } from 'react'
 
 function Media() {

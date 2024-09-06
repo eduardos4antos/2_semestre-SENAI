@@ -1,5 +1,6 @@
 import { useState } from "react"
-
+import './Exemplo.css'
+import React from "react"
 function Exemplo() {
 
     const [resultado, setResultado] = useState(0)
@@ -11,6 +12,7 @@ function Exemplo() {
     }
     return (
         <div className="Exemplo-container">
+            <h2>exemplo </h2>
             <button onClick={aumentar}>+</button>
             {resultado}
             <button onClick={diminuir}>-</button>
